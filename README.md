@@ -41,14 +41,14 @@ At the Step-6, to set pushing a box. It is 2 type of 2D based game samples, that
 In this step, try to create game for 2D type of maze with small chang of the sample in Step-6. The algorithm for making maze is based on [Algoful](http://algoful.com/Archive/Algorithm/MazeDig).  
 [index_Phaser_07.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_07_with_sound_effect.html) : Demo for Step-7
 ### Step-8 (Under Construction)
-At the Step-8, added some enemies to the sample in Step-6. However, it is not working well. Then, the animation of sprites are defference at Phaser var. 3.11 and at var. 3.19 in same JS file.   
+At the Step-8, added some enemies to the sample in Step-6. However, there are not working well. Then, the animation of sprites are defference at Phaser var. 3.11 and at var. 3.19 in same JS file.   
 [index_Phaser_08_311.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_08_311.html) : Demo for Step-8 by using Phaser ver. 3.11.  
-[index_phaser_08_319.html](https://to-fujita.github.io/phaserJS_sample_Games/index_phaser_08_319.html) : Demo for Step-8 by using Phaser ver.3.19.  
+[index_phaser_08_319.html](https://to-fujita.github.io/phaserJS_sample_Games/index_phaser_08_319.html) : Demo for Step-8 by using Phaser ver. 3.19.  
 ### Step-9 (Under Construction)
   
 
 ## Reference:
-1. [Phina js](https://phinajs.com/) : Home Page of Phina.js  
+1. [Phaser3 js](https://phaser.io/phaser3) : Home Page of Phaser3.js  
 2. [pikasgame](https://dorapika.wixsite.com/pikasgame) : Home Page of PIKA's GAME  
 3. [pipoya](http://blog.pipoya.net/) : Home Page of Pipoya  
 4. [Algoful](http://algoful.com/Archive/Algorithm/MazeDig) : Algorithm for making a maze  
