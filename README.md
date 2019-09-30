@@ -43,7 +43,7 @@ In this step, try to create game for 2D type of maze with small chang of the sam
 ### Step-8 (Under Construction)
 At the Step-8, added some enemies to the sample in Step-6. However, there are not working well. Then, the animation of sprites are defference at Phaser var. 3.11 and at var. 3.19 in same JS file.   
 [index_Phaser_08_311.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_08_311.html) : Demo for Step-8 by using Phaser ver. 3.11.  
-[index_phaser_08_319.html](https://to-fujita.github.io/phaserJS_Sample_Games/index_phaser_08_319.html) : Demo for Step-8 by using Phaser ver. 3.19.  
+[index_Phaser_08_319.html](https://to-fujita.github.io/phaserJS_Sample_Games/index_Phaser_08_319.html) : Demo for Step-8 by using Phaser ver. 3.19.  
 ### Step-9 (Under Construction)
   
 
