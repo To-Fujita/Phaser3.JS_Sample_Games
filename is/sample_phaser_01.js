@@ -1,4 +1,4 @@
-﻿// Sample for phaser.js by T. Fujita on 2019/9/11 (Display a static character)
+// Sample for phaser.js by T. Fujita on 2019/9/11 (Display a static character)
 
 var config = {
     type: Phaser.AUTO,
