@@ -52,7 +52,7 @@ At the Step-8, added some enemies to the sample in Step-6. However, there are no
 2. [pikasgame](https://dorapika.wixsite.com/pikasgame) : Home Page of PIKA's GAME  
 3. [pipoya](http://blog.pipoya.net/) : Home Page of Pipoya  
 4. [Algoful](http://algoful.com/Archive/Algorithm/MazeDig) : Algorithm for making a maze  
-5. [soundeffect-lab](https://soundeffect-lab.info/)   
+5. [soundeffect-lab](https://soundeffect-lab.info/) : Download for Sound Effect Data   
 ## Licence:
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 ## Author:
