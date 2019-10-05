@@ -13,8 +13,7 @@ The files are as follows:
 - js/maze_02.js: To create the maze for Step-7.  
 - js/phaser.js, phaser.min.js: The main body for phaser.js.  
 - js/sample_phaser_01.js - sample_phaser_08.js: Each JavaScript file is corresponding to each HTML file.  
-- js/stage_01.js: Each stage without enemy is here. It is available to change by using text editor.  
-- js/stage_02.js: Each stage with enemy (after stage #8) is here. It is also available to change.  
+- js/stage_01.js: Each stage without enemy is here. It is available to change by using text editor.    
 - sound: It is a folder for providing the sound files.  
 
 In these games, some graphics are downloaded from  [pikasgame](https://dorapika.wixsite.com/pikasgame) and [pipoya](http://blog.pipoya.net/). Then, files for sound effect are downloaded from [soundeffect-lab](https://soundeffect-lab.info/).  
@@ -40,12 +39,6 @@ At the Step-6, to set pushing a box. It is 2 type of 2D based game samples, that
 ### Step-7
 In this step, try to create game for 2D type of maze with small chang of the sample in Step-6. The algorithm for making maze is based on [Algoful](http://algoful.com/Archive/Algorithm/MazeDig).  
 [index_Phaser_07.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_07.html) : Demo for Step-7
-### Step-8 (Under Construction)
-At the Step-8, added some enemies to the sample in Step-6. However, there are not working well. Then, the animation of sprites are defference at Phaser var. 3.11 and at var. 3.19 in same JS file.   
-[index_Phaser_08_311.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_08_311.html) : Demo for Step-8 by using Phaser ver. 3.11.(Not working well.)  
-[index_Phaser_08_319.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index_Phaser_08_319.html) : Demo for Step-8 by using Phaser ver. 3.19.(Not working well.)  
-### Step-9 (Under Construction)
-  
 
 ## Reference:
 1. [Phaser3 js](https://phaser.io/phaser3) : Home Page of Phaser3.js  
