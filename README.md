@@ -7,12 +7,12 @@ I will show you same samples to create 2D based games of pazzle type step by ste
 These demonstrations are confirmed by Microsoft Edge (Ver. 11.0.17763.379), Firefox (Ver. 65.0.2/64 bit) and Google Chrome (Ver. 73.0.3683.86/64 bit) under the condition of Windows 10. Then, some of Android are also available to work it.  
 [index.html](https://to-fujita.github.io/PhaserJS_Sample_Games/index.html) : Menu for Demo Games  
 The files are as follows:  
-- index_Phaser_01.html - index_Phaser_08_319.html: Each html file is corresponding to each step below.  
+- index_Phaser_01.html - index_Phaser_07.html: Each html file is corresponding to each step below.  
 - images: It is a folder for providing the background image, tile images and character's graphics.  
 - js: It is a folder for main programs.  
 - js/maze_02.js: To create the maze for Step-7.  
 - js/phaser.js, phaser.min.js: The main body for phaser.js.  
-- js/sample_phaser_01.js - sample_phaser_08.js: Each JavaScript file is corresponding to each HTML file.  
+- js/sample_phaser_01.js - sample_phaser_07.js: Each JavaScript file is corresponding to each HTML file.  
 - js/stage_01.js: Each stage without enemy is here. It is available to change by using text editor.    
 - sound: It is a folder for providing the sound files.  
 
