@@ -49,7 +49,7 @@ function update ()
         }
         else if (cursors.right.isDown)
         {
-            player.setVelocityX(speed0);
+            player.setVelocityX(speed);
 
         }
         else if (cursors.up.isDown)
