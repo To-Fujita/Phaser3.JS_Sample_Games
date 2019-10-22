@@ -6,7 +6,7 @@ This is one of tutrial for creating some games based on phaser3.js. In this docu
 I will show you same samples to create 2D based games of pazzle type step by step.  
 These demonstrations are confirmed by Microsoft Edge (Ver. 11.0.17763.379), Firefox (Ver. 65.0.2/64 bit) and Google Chrome (Ver. 73.0.3683.86/64 bit) under the condition of Windows 10. However, it is not supported to the touch events.  
 [index.html](https://to-fujita.github.io/Phaser3.JS_Sample_Games/index.html) : Menu for Demo Games  
-At the GITHUB above, the files and folders are as follows:  
+At the GITHUB above, the files and the folders are as follows:  
 - index_Phaser_01.html - index_Phaser_07.html: Each html file is corresponding to each step below.  
 - images: It is a folder for providing the background image, tile images and character's graphics.  
 - js: It is a folder for main programs.  
